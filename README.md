@@ -1,6 +1,6 @@
 # MISTER MUDA
 
-![Google Logo](insert_logo_image_url_here)
+![Google Logo]([insert_logo_image_url_here](https://pbs.twimg.com/profile_banners/1525713805795381249/1671387316/1500x500))
 
 Welcome to Mister Muda's official website! This site provides access to Mister Muda's various social media platforms. Stay connected and follow Mister Muda on different channels.
 
